@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="EventHubDbContextTests.cs" />
+    <Compile Remove="Usings.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EventHub.TicketManagement.Persistence\EventHub.TicketManagement.Persistence.csproj" />
+    <ProjectReference Include="..\EventHubTicketManagement.Application.Unit\EventHub.TicketManagement.Application.Unit.csproj" />
+  </ItemGroup>
+
+</Project>

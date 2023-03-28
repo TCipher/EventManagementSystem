@@ -1,0 +1,17 @@
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Infrastructure\obj\Debug\net6.0\EventHub.TicketManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Infrastructure\obj\Debug\net6.0\EventHub.TicketManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Infrastructure\obj\Debug\net6.0\EventHub.TicketManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Infrastructure\obj\Debug\net6.0\EventHub.TicketManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Infrastructure\obj\Debug\net6.0\EventHub.TicketManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Infrastructure\bin\Debug\net6.0\EventHub.TicketManagement.Infrastructure.deps.json
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Infrastructure\bin\Debug\net6.0\EventHub.TicketManagement.Infrastructure.dll
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Infrastructure\bin\Debug\net6.0\EventHub.TicketManagement.Infrastructure.pdb
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Infrastructure\bin\Debug\net6.0\EventHub.TicketManagement.Application.dll
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Infrastructure\bin\Debug\net6.0\EventHub.TicketManagement.Domain.dll
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Infrastructure\bin\Debug\net6.0\EventHub.TicketManagement.Application.pdb
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Infrastructure\bin\Debug\net6.0\EventHub.TicketManagement.Domain.pdb
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Infrastructure\obj\Debug\net6.0\EventHub.TicketManagement.Infrastructure.csproj.CopyComplete
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Infrastructure\obj\Debug\net6.0\EventHub.TicketManagement.Infrastructure.dll
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Infrastructure\obj\Debug\net6.0\refint\EventHub.TicketManagement.Infrastructure.dll
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Infrastructure\obj\Debug\net6.0\EventHub.TicketManagement.Infrastructure.pdb
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Infrastructure\obj\Debug\net6.0\ref\EventHub.TicketManagement.Infrastructure.dll

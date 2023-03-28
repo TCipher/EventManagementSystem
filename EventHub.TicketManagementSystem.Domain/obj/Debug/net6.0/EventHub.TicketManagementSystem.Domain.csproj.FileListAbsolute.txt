@@ -1,0 +1,12 @@
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagementSystem.Domain\bin\Debug\net6.0\EventHub.TicketManagementSystem.Domain.deps.json
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagementSystem.Domain\bin\Debug\net6.0\EventHub.TicketManagementSystem.Domain.dll
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagementSystem.Domain\bin\Debug\net6.0\EventHub.TicketManagementSystem.Domain.pdb
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagementSystem.Domain\obj\Debug\net6.0\EventHub.TicketManagementSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagementSystem.Domain\obj\Debug\net6.0\EventHub.TicketManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagementSystem.Domain\obj\Debug\net6.0\EventHub.TicketManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagementSystem.Domain\obj\Debug\net6.0\EventHub.TicketManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagementSystem.Domain\obj\Debug\net6.0\EventHub.TicketManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagementSystem.Domain\obj\Debug\net6.0\EventHub.TicketManagementSystem.Domain.dll
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagementSystem.Domain\obj\Debug\net6.0\refint\EventHub.TicketManagementSystem.Domain.dll
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagementSystem.Domain\obj\Debug\net6.0\EventHub.TicketManagementSystem.Domain.pdb
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagementSystem.Domain\obj\Debug\net6.0\ref\EventHub.TicketManagementSystem.Domain.dll

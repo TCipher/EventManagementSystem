@@ -1,0 +1,350 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagement.Persistence.Integration\\EventHub.TicketManagement.Persistence.IntegrationTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagement.Application\\EventHub.TicketManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagement.Application\\EventHub.TicketManagement.Application.csproj",
+        "projectName": "EventHub.TicketManagement.Application",
+        "projectPath": "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagement.Application\\EventHub.TicketManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagement.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagementSystem.Domain\\EventHub.TicketManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagementSystem.Domain\\EventHub.TicketManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.5.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagement.Persistence.Integration\\EventHub.TicketManagement.Persistence.IntegrationTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagement.Persistence.Integration\\EventHub.TicketManagement.Persistence.IntegrationTest.csproj",
+        "projectName": "EventHub.TicketManagement.Persistence.IntegrationTest",
+        "projectPath": "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagement.Persistence.Integration\\EventHub.TicketManagement.Persistence.IntegrationTest.csproj",
+        "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagement.Persistence.Integration\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagement.Persistence\\EventHub.TicketManagement.Persistence.csproj": {
+                "projectPath": "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagement.Persistence\\EventHub.TicketManagement.Persistence.csproj"
+              },
+              "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHubTicketManagement.Application.Unit\\EventHub.TicketManagement.Application.Unit.csproj": {
+                "projectPath": "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHubTicketManagement.Application.Unit\\EventHub.TicketManagement.Application.Unit.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagement.Persistence\\EventHub.TicketManagement.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagement.Persistence\\EventHub.TicketManagement.Persistence.csproj",
+        "projectName": "EventHub.TicketManagement.Persistence",
+        "projectPath": "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagement.Persistence\\EventHub.TicketManagement.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagement.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagement.Application\\EventHub.TicketManagement.Application.csproj": {
+                "projectPath": "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagement.Application\\EventHub.TicketManagement.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagementSystem.Domain\\EventHub.TicketManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagementSystem.Domain\\EventHub.TicketManagement.Domain.csproj",
+        "projectName": "EventHub.TicketManagement.Domain",
+        "projectPath": "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagementSystem.Domain\\EventHub.TicketManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagementSystem.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHubTicketManagement.Application.Unit\\EventHub.TicketManagement.Application.Unit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHubTicketManagement.Application.Unit\\EventHub.TicketManagement.Application.Unit.csproj",
+        "projectName": "EventHub.TicketManagement.Application.Unit",
+        "projectPath": "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHubTicketManagement.Application.Unit\\EventHub.TicketManagement.Application.Unit.csproj",
+        "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHubTicketManagement.Application.Unit\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagement.Application\\EventHub.TicketManagement.Application.csproj": {
+                "projectPath": "C:\\Users\\Decagon\\source\\repos\\EMS\\EventHubNaija.TicketManagement\\EventHub.TicketManagement.Application\\EventHub.TicketManagement.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "Shouldly": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

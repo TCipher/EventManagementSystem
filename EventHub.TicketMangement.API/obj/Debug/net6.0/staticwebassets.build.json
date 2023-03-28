@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wl/5MB2C3PVZ7uZeQPWXCjU+4LVyxv0zVfEsywxOosw=",
+  "Source": "EventHub.TicketMangement.API",
+  "BasePath": "_content/EventHub.TicketMangement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Persistence\bin\Debug\net6.0\EventHub.TicketManagement.Persistence.deps.json
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Persistence\bin\Debug\net6.0\EventHub.TicketManagement.Persistence.dll
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Persistence\bin\Debug\net6.0\EventHub.TicketManagement.Persistence.pdb
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Persistence\bin\Debug\net6.0\EventHub.TicketManagement.Application.dll
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Persistence\bin\Debug\net6.0\EventHub.TicketManagement.Domain.dll
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Persistence\bin\Debug\net6.0\EventHub.TicketManagement.Application.pdb
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Persistence\bin\Debug\net6.0\EventHub.TicketManagement.Domain.pdb
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Persistence\obj\Debug\net6.0\EventHub.TicketManagement.Persistence.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Persistence\obj\Debug\net6.0\EventHub.TicketManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Persistence\obj\Debug\net6.0\EventHub.TicketManagement.Persistence.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Persistence\obj\Debug\net6.0\EventHub.TicketManagement.Persistence.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Persistence\obj\Debug\net6.0\EventHub.TicketManagement.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Persistence\obj\Debug\net6.0\EventHub.TicketManagement.Persistence.csproj.CopyComplete
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Persistence\obj\Debug\net6.0\EventHub.TicketManagement.Persistence.dll
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Persistence\obj\Debug\net6.0\refint\EventHub.TicketManagement.Persistence.dll
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Persistence\obj\Debug\net6.0\EventHub.TicketManagement.Persistence.pdb
+C:\Users\Decagon\source\repos\EMS\EventHubNaija.TicketManagement\EventHub.TicketManagement.Persistence\obj\Debug\net6.0\ref\EventHub.TicketManagement.Persistence.dll
